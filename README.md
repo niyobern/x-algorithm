@@ -344,7 +344,7 @@ The `candidate-pipeline` crate provides a flexible framework for building recomm
 
 ## 30-Day X Growth System
 
-This section implements a practical 30-day growth operating system for creators who want consistent audience growth on X. It is included as an applied playbook that mirrors how this project emphasizes systematic iteration, measurement, and optimization.
+This section implements a practical 30-day growth operating system for creators who want consistent audience growth on X. It is included because this repository focuses on X feed ranking mechanics, and this playbook gives practitioners a concrete way to apply those mechanics (distribution, engagement loops, and iteration) in their publishing workflow.
 
 ### 1) Set Your Lane
 
@@ -376,8 +376,8 @@ Formula:
 ### 4) Daily Execution Rule
 
 - Post 1–3 times per day
-- Spend at least 30 minutes engaging before posting
-- Spend at least 60 minutes replying after posting
+- Recommended minimum: spend 30 minutes engaging before posting
+- Recommended minimum: spend 60 minutes replying after posting
 - Save every strong hook and reuse winners
 
 ### 5) 30 Daily Prompts
