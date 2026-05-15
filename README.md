@@ -19,6 +19,7 @@ This repository contains the core recommendation system powering the "For You" f
   - [Scoring and Ranking](#scoring-and-ranking)
   - [Filtering](#filtering)
 - [Key Design Decisions](#key-design-decisions)
+- [30-Day X Growth System](#30-day-x-growth-system)
 - [License](#license)
 
 ---
@@ -338,6 +339,183 @@ The `candidate-pipeline` crate provides a flexible framework for building recomm
 - Separation of pipeline execution and monitoring from business logic
 - Parallel execution of independent stages and graceful error handling
 - Easy addition of new sources, hydrations, filters, and scorers
+
+---
+
+## 30-Day X Growth System
+
+This section implements a practical 30-day growth operating system for creators who want consistent audience growth on X. It is included because this repository focuses on X feed ranking mechanics, and this playbook gives practitioners a concrete way to apply those mechanics (distribution, engagement loops, and iteration) in their publishing workflow.
+
+### 1) Set Your Lane
+
+- Pick 1 audience
+- Pick 1 theme
+- Pick 1 repeatable promise
+
+Formula:
+
+`I help [audience] get [result] with [topic].`
+
+### 2) Use 4 Content Pillars
+
+1. **Education** — Teach something useful
+2. **Opinion** — Share a strong take
+3. **Proof** — Show results, case studies, lessons
+4. **Personal** — Story, struggle, belief, behind the scenes
+
+### 3) Weekly Posting Rhythm
+
+- **Mon:** Actionable tip/thread
+- **Tue:** Hot take/opinion
+- **Wed:** Case study or breakdown
+- **Thu:** Personal story with lesson
+- **Fri:** Contrarian insight
+- **Sat:** Short list post or quick win
+- **Sun:** Recap + question/opinion bait
+
+### 4) Daily Execution Rule
+
+- Post 1–3 times per day
+- Recommended minimum: spend 30 minutes engaging before posting
+- Recommended minimum: spend 60 minutes replying after posting
+- Save every strong hook and reuse winners
+
+### 5) 30 Daily Prompts
+
+1. Biggest mistake beginners make in your niche
+2. Unpopular opinion you strongly believe
+3. 3-step framework for one small result
+4. What you would do from zero today
+5. Myth vs reality in your niche
+6. Personal lesson from failure
+7. Weekly recap of what worked
+8. “Stop doing this” post
+9. Tool/resource recommendation
+10. Mini case study
+11. Before/after transformation
+12. Answer a common objection
+13. List of beginner traps
+14. Bold prediction
+15. Your process in 5 steps
+16. Breakdown of a successful creator/post
+17. Share a small win with lesson
+18. “If I had to start over” post
+19. One habit that changed results
+20. Misconception people repeat
+21. Weekly recap + audience question
+22. Thread with practical checklist
+23. Story from your own journey
+24. Comparison post: good vs bad approach
+25. Common advice you disagree with
+26. Post a template people can copy
+27. Share data/result and what it means
+28. “Do this instead” post
+29. Best lesson from the month
+30. Summary thread of top insights
+
+### 6) Hook Templates
+
+- Most people on X are doing ___ wrong.
+- If you’re stuck at low views, start here:
+- The harsh truth about growing on X:
+- I’d do this if I had to go from 0 again.
+- This small change can 10x your post performance.
+- Unpopular opinion: ___
+- Nobody tells creators this, but ___
+- 3 mistakes killing your reach right now:
+- Here’s the framework I use to ___
+- Steal this template:
+
+### 7) Post Structure
+
+1. Hook
+2. One core idea
+3. 3–5 supporting points
+4. Simple CTA
+
+CTA examples:
+- Agree or disagree?
+- Want part 2?
+- Which one is you?
+
+### 8) KPI Tracker
+
+Track each post for:
+
+- Impressions
+- Likes
+- Replies
+- Reposts
+- Bookmarks
+- Profile visits
+- Follows gained
+- Engagement rate
+- Top hook used
+- Content pillar used
+
+### 9) Review Every 7 Days
+
+- Identify top 20% posts
+- Reuse their hooks
+- Repackage the same idea in a new format
+- Cut low-performing topics
+- Keep themes that earn replies, saves, and follows
+
+### 10) Goal
+
+Don’t chase “millions” first. Optimize for:
+
+- Better hooks
+- Higher retention
+- More shares
+- More profile clicks
+
+Viral reach usually comes from repeated strong packaging, not luck.
+
+### Copy-Paste Weekly Calendar (4 Weeks)
+
+Use this same pattern each week:
+
+- **Monday:** Actionable tip/thread (Education)
+- **Tuesday:** Strong opinion/hot take (Opinion)
+- **Wednesday:** Case study/breakdown (Proof)
+- **Thursday:** Story + lesson (Personal)
+- **Friday:** Contrarian insight (Opinion)
+- **Saturday:** Short list or quick win (Education)
+- **Sunday:** Weekly recap + audience question (Proof/Opinion)
+
+### 30 Ready-to-Post Example Prompts
+
+1. Most people trying to grow on X are posting without a clear promise. Pick one.
+2. Unpopular opinion: Consistency beats creativity when you’re under 10k followers.
+3. Steal this 3-step framework to turn one idea into 7 posts.
+4. If I had to start from 0 today, I’d focus on replies before threads.
+5. Myth: You need viral posts to grow. Reality: You need repeatable clarity.
+6. My biggest early mistake: posting insights with no clear CTA.
+7. Week 1 recap: Here’s what performed best and why.
+8. Stop writing clever hooks. Start writing specific hooks.
+9. One tool I use to save winning hooks and reuse them every week.
+10. Mini case study: One format change that doubled profile clicks.
+11. Before: low engagement. After: one lane + one promise + steady growth.
+12. “But my niche is too small.” Good. Small niches convert better.
+13. 5 beginner traps that kill growth on X.
+14. Prediction: Creator pages will look more like media brands in 12 months.
+15. My 5-step content process from idea to post.
+16. Breakdown: Why this creator’s thread worked (and what to copy).
+17. Small win: one post brought qualified followers, not just impressions.
+18. If I restarted today, I’d write for one person, not “everyone.”
+19. One habit that changed everything: writing tomorrow’s hook today.
+20. Misconception: More posts = more growth. Better framing matters more.
+21. Weekly recap + question: Which format should I test next?
+22. Checklist thread: 7 things to verify before posting.
+23. Story: The post I almost didn’t publish — and what it taught me.
+24. Good vs bad hook examples (and why one wins).
+25. Common advice I disagree with: “Just be authentic.” Be useful first.
+26. Copy this template for educational posts in any niche.
+27. Here’s last week’s data and the one insight I’m keeping.
+28. Do this instead: replace broad tips with specific, time-bound actions.
+29. Best lesson from this month: clarity compounds.
+30. Monthly summary thread: top insights, top posts, next experiments.
 
 ---
 
